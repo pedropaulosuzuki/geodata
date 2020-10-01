@@ -1,0 +1,138 @@
+count;id_mesoregiao;nome_mesorregiao;id_uf;nome_uf;sigla_uf;id_macrorregiao;nome_macrorregiao;sigla_macrorregiao
+1;1101;Madeira-Guaporé;11;Rondônia;RO;1;Norte;N
+2;1102;Leste Rondoniense;11;Rondônia;RO;1;Norte;N
+3;1201;Vale do Juruá;12;Acre;AC;1;Norte;N
+4;1202;Vale do Acre;12;Acre;AC;1;Norte;N
+5;1301;Norte Amazonense;13;Amazonas;AM;1;Norte;N
+6;1302;Sudoeste Amazonense;13;Amazonas;AM;1;Norte;N
+7;1303;Centro Amazonense;13;Amazonas;AM;1;Norte;N
+8;1304;Sul Amazonense;13;Amazonas;AM;1;Norte;N
+9;1401;Norte de Roraima;14;Roraima;RR;1;Norte;N
+10;1402;Sul de Roraima;14;Roraima;RR;1;Norte;N
+11;1501;Baixo Amazonas;15;Pará;PA;1;Norte;N
+12;1502;Marajó;15;Pará;PA;1;Norte;N
+13;1503;Metropolitana de Belém;15;Pará;PA;1;Norte;N
+14;1504;Nordeste Paraense;15;Pará;PA;1;Norte;N
+15;1505;Sudoeste Paraense;15;Pará;PA;1;Norte;N
+16;1506;Sudeste Paraense;15;Pará;PA;1;Norte;N
+17;1601;Norte do Amapá;16;Amapá;AP;1;Norte;N
+18;1602;Sul do Amapá;16;Amapá;AP;1;Norte;N
+19;1701;Ocidental do Tocantins;17;Tocantins;TO;1;Norte;N
+20;1702;Oriental do Tocantins;17;Tocantins;TO;1;Norte;N
+21;2101;Norte Maranhense;21;Maranhão;MA;2;Nordeste;NE
+22;2102;Oeste Maranhense;21;Maranhão;MA;2;Nordeste;NE
+23;2103;Centro Maranhense;21;Maranhão;MA;2;Nordeste;NE
+24;2104;Leste Maranhense;21;Maranhão;MA;2;Nordeste;NE
+25;2105;Sul Maranhense;21;Maranhão;MA;2;Nordeste;NE
+26;2201;Norte Piauiense;22;Piauí;PI;2;Nordeste;NE
+27;2202;Centro-Norte Piauiense;22;Piauí;PI;2;Nordeste;NE
+28;2203;Sudoeste Piauiense;22;Piauí;PI;2;Nordeste;NE
+29;2204;Sudeste Piauiense;22;Piauí;PI;2;Nordeste;NE
+30;2301;Noroeste Cearense;23;Ceará;CE;2;Nordeste;NE
+31;2302;Norte Cearense;23;Ceará;CE;2;Nordeste;NE
+32;2303;Metropolitana de Fortaleza;23;Ceará;CE;2;Nordeste;NE
+33;2304;Sertões Cearenses;23;Ceará;CE;2;Nordeste;NE
+34;2305;Jaguaribe;23;Ceará;CE;2;Nordeste;NE
+35;2306;Centro-Sul Cearense;23;Ceará;CE;2;Nordeste;NE
+36;2307;Sul Cearense;23;Ceará;CE;2;Nordeste;NE
+37;2401;Oeste Potiguar;24;Rio Grande do Norte;RN;2;Nordeste;NE
+38;2402;Central Potiguar;24;Rio Grande do Norte;RN;2;Nordeste;NE
+39;2403;Agreste Potiguar;24;Rio Grande do Norte;RN;2;Nordeste;NE
+40;2404;Leste Potiguar;24;Rio Grande do Norte;RN;2;Nordeste;NE
+41;2501;Sertão Paraibano;25;Paraíba;PB;2;Nordeste;NE
+42;2502;Borborema;25;Paraíba;PB;2;Nordeste;NE
+43;2503;Agreste Paraibano;25;Paraíba;PB;2;Nordeste;NE
+44;2504;Mata Paraibana;25;Paraíba;PB;2;Nordeste;NE
+45;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE
+46;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE
+47;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE
+48;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE
+49;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE
+50;2701;Sertão Alagoano;27;Alagoas;AL;2;Nordeste;NE
+51;2702;Agreste Alagoano;27;Alagoas;AL;2;Nordeste;NE
+52;2703;Leste Alagoano;27;Alagoas;AL;2;Nordeste;NE
+53;2801;Sertão Sergipano;28;Sergipe;SE;2;Nordeste;NE
+54;2802;Agreste Sergipano;28;Sergipe;SE;2;Nordeste;NE
+55;2803;Leste Sergipano;28;Sergipe;SE;2;Nordeste;NE
+56;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE
+57;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE
+58;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE
+59;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE
+60;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE
+61;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE
+62;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE
+63;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE
+64;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE
+65;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE
+66;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE
+67;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE
+68;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE
+69;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE
+70;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE
+71;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE
+72;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE
+73;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE
+74;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE
+75;3201;Noroeste Espírito-santense;32;Espírito Santo;ES;3;Sudeste;SE
+76;3202;Litoral Norte Espírito-santense;32;Espírito Santo;ES;3;Sudeste;SE
+77;3203;Central Espírito-santense;32;Espírito Santo;ES;3;Sudeste;SE
+78;3204;Sul Espírito-santense;32;Espírito Santo;ES;3;Sudeste;SE
+79;3301;Noroeste Fluminense;33;Rio de Janeiro;RJ;3;Sudeste;SE
+80;3302;Norte Fluminense;33;Rio de Janeiro;RJ;3;Sudeste;SE
+81;3303;Centro Fluminense;33;Rio de Janeiro;RJ;3;Sudeste;SE
+82;3304;Baixadas;33;Rio de Janeiro;RJ;3;Sudeste;SE
+83;3305;Sul Fluminense;33;Rio de Janeiro;RJ;3;Sudeste;SE
+84;3306;Metropolitana do Rio de Janeiro;33;Rio de Janeiro;RJ;3;Sudeste;SE
+85;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE
+86;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE
+87;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE
+88;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE
+89;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE
+90;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE
+91;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE
+92;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE
+93;3509;Marília;35;São Paulo;SP;3;Sudeste;SE
+94;3510;Assis;35;São Paulo;SP;3;Sudeste;SE
+95;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE
+96;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE
+97;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE
+98;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE
+99;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE
+100;4101;Noroeste Paranaense;41;Paraná;PR;4;Sul;S
+101;4102;Centro Ocidental Paranaense;41;Paraná;PR;4;Sul;S
+102;4103;Norte Central Paranaense;41;Paraná;PR;4;Sul;S
+103;4104;Norte Pioneiro Paranaense;41;Paraná;PR;4;Sul;S
+104;4105;Centro Oriental Paranaense;41;Paraná;PR;4;Sul;S
+105;4106;Oeste Paranaense;41;Paraná;PR;4;Sul;S
+106;4107;Sudoeste Paranaense;41;Paraná;PR;4;Sul;S
+107;4108;Centro-Sul Paranaense;41;Paraná;PR;4;Sul;S
+108;4109;Sudeste Paranaense;41;Paraná;PR;4;Sul;S
+109;4110;Metropolitana de Curitiba;41;Paraná;PR;4;Sul;S
+110;4201;Oeste Catarinense;42;Santa Catarina;SC;4;Sul;S
+111;4202;Norte Catarinense;42;Santa Catarina;SC;4;Sul;S
+112;4203;Serrana;42;Santa Catarina;SC;4;Sul;S
+113;4204;Vale do Itajaí;42;Santa Catarina;SC;4;Sul;S
+114;4205;Grande Florianópolis;42;Santa Catarina;SC;4;Sul;S
+115;4206;Sul Catarinense;42;Santa Catarina;SC;4;Sul;S
+116;4301;Noroeste Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+117;4302;Nordeste Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+118;4303;Centro Ocidental Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+119;4304;Centro Oriental Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+120;4305;Metropolitana de Porto Alegre;43;Rio Grande do Sul;RS;4;Sul;S
+121;4306;Sudoeste Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+122;4307;Sudeste Rio-grandense;43;Rio Grande do Sul;RS;4;Sul;S
+123;5001;Pantanais Sul Mato-grossense;50;Mato Grosso do Sul;MS;5;Centro-Oeste;CO
+124;5002;Centro Norte de Mato Grosso do Sul;50;Mato Grosso do Sul;MS;5;Centro-Oeste;CO
+125;5003;Leste de Mato Grosso do Sul;50;Mato Grosso do Sul;MS;5;Centro-Oeste;CO
+126;5004;Sudoeste de Mato Grosso do Sul;50;Mato Grosso do Sul;MS;5;Centro-Oeste;CO
+127;5101;Norte Mato-grossense;51;Mato Grosso;MT;5;Centro-Oeste;CO
+128;5102;Nordeste Mato-grossense;51;Mato Grosso;MT;5;Centro-Oeste;CO
+129;5103;Sudoeste Mato-grossense;51;Mato Grosso;MT;5;Centro-Oeste;CO
+130;5104;Centro-Sul Mato-grossense;51;Mato Grosso;MT;5;Centro-Oeste;CO
+131;5105;Sudeste Mato-grossense;51;Mato Grosso;MT;5;Centro-Oeste;CO
+132;5201;Noroeste Goiano;52;Goiás;GO;5;Centro-Oeste;CO
+133;5202;Norte Goiano;52;Goiás;GO;5;Centro-Oeste;CO
+134;5203;Centro Goiano;52;Goiás;GO;5;Centro-Oeste;CO
+135;5204;Leste Goiano;52;Goiás;GO;5;Centro-Oeste;CO
+136;5205;Sul Goiano;52;Goiás;GO;5;Centro-Oeste;CO
+137;5301;Distrito Federal;53;Distrito Federal;DF;5;Centro-Oeste;CO

@@ -1,0 +1,28 @@
+count;id_uf;nome_uf;sigla_uf;id_macrorregiao;nome_macrorregiao;sigla_macrorregiao
+1;11;Rondônia;RO;1;Norte;N
+2;12;Acre;AC;1;Norte;N
+3;13;Amazonas;AM;1;Norte;N
+4;14;Roraima;RR;1;Norte;N
+5;15;Pará;PA;1;Norte;N
+6;16;Amapá;AP;1;Norte;N
+7;17;Tocantins;TO;1;Norte;N
+8;21;Maranhão;MA;2;Nordeste;NE
+9;22;Piauí;PI;2;Nordeste;NE
+10;23;Ceará;CE;2;Nordeste;NE
+11;24;Rio Grande do Norte;RN;2;Nordeste;NE
+12;25;Paraíba;PB;2;Nordeste;NE
+13;26;Pernambuco;PE;2;Nordeste;NE
+14;27;Alagoas;AL;2;Nordeste;NE
+15;28;Sergipe;SE;2;Nordeste;NE
+16;29;Bahia;BA;2;Nordeste;NE
+17;31;Minas Gerais;MG;3;Sudeste;SE
+18;32;Espírito Santo;ES;3;Sudeste;SE
+19;33;Rio de Janeiro;RJ;3;Sudeste;SE
+20;35;São Paulo;SP;3;Sudeste;SE
+21;41;Paraná;PR;4;Sul;S
+22;42;Santa Catarina;SC;4;Sul;S
+23;43;Rio Grande do Sul;RS;4;Sul;S
+24;50;Mato Grosso do Sul;MS;5;Centro-Oeste;CO
+25;51;Mato Grosso;MT;5;Centro-Oeste;CO
+26;52;Goiás;GO;5;Centro-Oeste;CO
+27;53;Distrito Federal;DF;5;Centro-Oeste;CO
